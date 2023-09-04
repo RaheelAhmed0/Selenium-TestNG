@@ -1,0 +1,177 @@
+22:50:53.454 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:50:54.725 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:50:54.729 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:50:58.489 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:53:13.560 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:53:14.765 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:53:14.768 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:53:18.194 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+11:53:01.082 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+11:53:02.677 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+11:53:02.687 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+11:53:05.881 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+12:06:42.732 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+12:06:44.137 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+12:06:44.140 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+12:06:47.668 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+12:07:10.138 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+12:07:11.666 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+12:07:11.669 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+12:07:14.701 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+12:13:58.407 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+12:13:58.446 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+12:14:00.379 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+12:14:00.382 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+12:14:00.797 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+12:14:00.798 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+12:14:05.222 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+12:14:05.486 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:19:34.957 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:19:36.209 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:19:36.212 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:19:39.834 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:23:08.399 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:23:09.587 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:23:09.591 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:23:12.828 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:38:03.937 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:38:05.213 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:38:05.216 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:38:08.885 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:41:33.567 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:41:34.983 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:41:34.986 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:41:38.980 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:51:02.525 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:51:03.833 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:51:03.838 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:51:07.189 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+21:53:46.436 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+21:53:50.122 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+21:50:39.681 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:52:36.081 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:58:51.904 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:04:25.438 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+22:04:28.992 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+22:08:34.799 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+22:08:38.333 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+22:09:07.994 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+22:09:11.832 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+22:10:58.394 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:15:04.364 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:27:46.022 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:27:47.163 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:27:47.179 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:27:50.171 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:28:53.960 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+22:28:57.307 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+22:29:46.555 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:34:21.508 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:46:39.051 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:46:54.342 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:47:04.718 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:47:15.089 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:47:25.305 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:39:27.536 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:39:49.929 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:40:00.400 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:40:10.862 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:40:21.318 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:41:14.496 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:41:29.889 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:41:40.383 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:41:50.809 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:42:01.244 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:51:18.064 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:51:33.702 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:51:44.194 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:51:54.624 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+21:52:05.059 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:10:57.085 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:11:00.353 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:11:05.715 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:11:05.779 [main] INFO  testCases.TC_03_LoginDDT - checking in valid if
+22:11:16.232 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:11:26.674 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:11:33.398 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:11:43.758 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:11:45.052 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:11:51.332 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:11:51.382 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+22:12:01.548 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:12:03.811 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:12:04.032 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:12:14.047 [main] INFO  testCases.TC_03_LoginDDT - **** Finished TC_03_LoginDDT ****
+22:31:01.839 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:31:04.096 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:31:04.098 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:31:08.785 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:32:21.022 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+22:32:34.862 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+22:32:34.867 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+22:32:47.100 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+22:33:10.526 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+22:33:18.651 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+22:24:32.013 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:24:36.070 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:24:45.593 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:24:45.671 [main] INFO  testCases.TC_03_LoginDDT - checking in valid if
+22:24:55.903 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:24:59.939 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:25:10.611 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:25:10.670 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+22:25:20.907 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:25:45.558 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:25:53.937 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:25:54.012 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+22:26:04.211 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:26:07.347 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:26:12.303 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:26:12.372 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+22:26:22.544 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+22:26:24.872 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+22:26:25.117 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+22:26:35.176 [main] INFO  testCases.TC_03_LoginDDT - **** Finished TC_03_LoginDDT ****
+11:34:58.280 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+11:35:01.571 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+11:35:01.580 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+11:35:06.081 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+11:35:22.647 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+11:35:27.045 [main] INFO  testCases.TC_02_LoginTest - **** Finished TC_02_LoginTest ****
+11:36:51.747 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+11:36:53.349 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+11:36:57.194 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+11:37:07.216 [main] INFO  testCases.TC_03_LoginDDT - checking in valid if
+11:37:07.381 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+11:37:10.592 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+11:37:10.786 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+11:37:20.809 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+11:37:20.809 [main] INFO  testCases.TC_03_LoginDDT - **** Finished TC_03_LoginDDT ****
+11:37:20.812 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+11:37:25.728 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+11:37:25.867 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+11:37:35.903 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+11:37:35.903 [main] INFO  testCases.TC_03_LoginDDT - **** Finished TC_03_LoginDDT ****
+11:37:35.905 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+11:37:40.676 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+11:37:40.802 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+11:37:50.836 [main] INFO  testCases.TC_03_LoginDDT - checking in invalid if
+11:37:50.836 [main] INFO  testCases.TC_03_LoginDDT - **** Finished TC_03_LoginDDT ****
+11:37:50.838 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+11:37:54.270 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+11:37:54.389 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+11:38:04.427 [main] INFO  testCases.TC_03_LoginDDT - **** Finished TC_03_LoginDDT ****
+11:44:42.585 [main] INFO  testCases.TC_03_LoginDDT - **** Starting TC_03_LoginDDT ****
+11:44:43.924 [main] INFO  testCases.TC_03_LoginDDT - clicked sign in
+11:44:47.350 [main] INFO  testCases.TC_03_LoginDDT - Signed In
+11:44:59.185 [main] INFO  testCases.TC_03_LoginDDT - checking in valid if
+11:46:10.946 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+11:46:12.932 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+11:46:12.936 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+11:46:16.384 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+11:46:24.102 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
+18:04:54.404 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** started TC_01_AccountRegistrationTest ***
+18:04:56.876 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account link ***
+18:04:56.885 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** providing the details to create account ***
+18:05:03.851 [main] INFO  testCases.TC_01_AccountRegistrationTest - *** clicked on create account button ***
+18:05:38.008 [main] INFO  testCases.TC_02_LoginTest - **** Starting TC_02_LoginTest ****
